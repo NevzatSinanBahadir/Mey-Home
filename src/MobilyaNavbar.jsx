@@ -67,32 +67,32 @@ const MobilyaNavbar = () => {
                 <div class="container">
                   <div>
                     <NavLink to="/oturmagruplari">
-                      <h3 style={{ fontSize: "12px" }} class="product-title">
+                      <h3 style={{ fontSize: "14px",color:'white' }} class="product-title">
                         Oturma Grupları
                       </h3>
                     </NavLink>
                     <NavLink to="/kosetakimlari">
-                      <h3 style={{ fontSize: "12px" }} class="product-title">
+                      <h3 style={{ fontSize: "14px",color:'white',marginTop:'12px' }} class="product-title">
                         Köşe Takımları
                       </h3>
                     </NavLink>
                     <NavLink to="/tvuniteleri">
-                      <h3 style={{ fontSize: "12px" }} class="product-title">
+                      <h3 style={{ fontSize: "14px",color:'white',marginTop:'12px' }} class="product-title">
                         Tv Üniteleri
                       </h3>
                     </NavLink>
                     <NavLink to="/yemekodalari">
-                      <h3 style={{ fontSize: "12px" }} class="product-title">
+                      <h3 style={{ fontSize: "14px",color:'white',marginTop:'12px' }} class="product-title">
                         Yemek Odaları
                       </h3>
                     </NavLink>
                     <NavLink to="/yatakodasi">
-                      <h3 style={{ fontSize: "12px" }} class="product-title">
+                      <h3 style={{ fontSize: "14px",color:'white',marginTop:'12px' }} class="product-title">
                         Yatak Odaları
                       </h3>
                     </NavLink>
                     <NavLink to="/sehpalar">
-                      <h3 style={{ fontSize: "12px" }} class="product-title">
+                      <h3 style={{ fontSize: "14px",color:'white',marginTop:'12px' }} class="product-title">
                         Sehpalar
                       </h3>
                     </NavLink>
