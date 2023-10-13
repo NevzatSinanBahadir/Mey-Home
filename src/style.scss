@@ -262,6 +262,12 @@ a {
 .section-title {
 	color: $dark;
 }
+
+@media screen and (max-width: 700px) {
+	.product-section {
+		margin-top: -50px!important;
+	}
+  }
 .product-section {
 	padding: 7rem 0;
 
@@ -348,7 +354,7 @@ a {
 
 @media screen and (max-width: 700px) {
 	.why-choose-section {
-		margin-top: -200px!important;
+		margin-top: -250px!important;
 	}
   }
 .why-choose-section {
@@ -628,6 +634,13 @@ a {
 .before-footer-section {
 	padding: 7rem 0 12rem 0!important;
 }
+
+@media screen and (max-width: 700px) {
+	.blog-section {
+		margin-top: -50px!important;
+	}
+  }
+
 .blog-section {
 	padding: 1rem 0 12rem 0;
 	.post-entry {

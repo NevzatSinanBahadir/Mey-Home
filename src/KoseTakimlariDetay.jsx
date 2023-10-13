@@ -1,17 +1,17 @@
 import React, { useContext,useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { ProductsContext } from './productContext';
+import { KoseTakimiContext } from './productContext';
 import Footer from './Footer';
 import MobilyaNavbar from './MobilyaNavbar';
  
-const OturmaGrubuDetay = () => {
+const KoseTakimlariDetay = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
 
     let { id } = useParams();
-    const [products] = useContext(ProductsContext);
+    const [products] = useContext(KoseTakimiContext);
     id = parseInt(id, 10); // String olarak gelen id'yi sayıya dönüştür
 
     // ... Ürünleri burada alın veya bir üst bileşenden prop olarak alın
@@ -62,4 +62,4 @@ const OturmaGrubuDetay = () => {
   )
 }
 
-export default OturmaGrubuDetay
+export default KoseTakimlariDetay

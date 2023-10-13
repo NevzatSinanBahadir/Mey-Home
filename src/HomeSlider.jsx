@@ -37,8 +37,11 @@ const HomeSlider = () => {
        
         
             <SwiperSlide> <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" className='img-fluid bg-image   '></img></SwiperSlide>
-            <SwiperSlide> <img src="https://st3.myideasoft.com/shop/do/94/myassets/products/233/chester-koltuk-modelleri-takimi-modelleri.jpg?revision=1660182377" className='img-fluid bg-image  '></img></SwiperSlide>
-            <SwiperSlide> <img src="https://st1.myideasoft.com/shop/al/13/myassets/products/943/koltuk-854768.jpg?revision=1656414253" className='img-fluid bg-image  '></img></SwiperSlide>
+            <SwiperSlide> <img src="https://www.alfemo.com.tr/images/thumbs/0007631_palermo-kose-takimi_1440.jpeg" className='img-fluid bg-image  '></img></SwiperSlide>
+            <SwiperSlide> <img src="https://static.ticimax.cloud/30192/uploads/urunresimleri/buyuk/new-morten-tv-unitesi-5dc6dc.jpg" className='img-fluid bg-image  '></img></SwiperSlide>
+            <SwiperSlide> <img src="https://ideacdn.net/idea/kc/78/myassets/products/961/https-bellona-mncdn-com-mnresize-1280-720-img-image-tr-58mtg8015ldld-28.jpg?revision=1693987862" className='img-fluid bg-image  '></img></SwiperSlide>
+            <SwiperSlide> <img src="https://static.ticimax.cloud/30192/uploads/urunresimleri/buyuk/perla-yatak-odasi-takimi-ceviz-382bc-.jpg" className='img-fluid bg-image  '></img></SwiperSlide>
+            
        
 
           

@@ -46,9 +46,9 @@ const MobilyaNavbar = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">
-            <Nav.Link className="mx-3" href="/">
+            <NavLink className="mx-3 mt-2 text-white" to="/">
               Anasayfa
-            </Nav.Link>
+            </NavLink>
 
             <Dropdown
               show={showDropdown}
@@ -86,7 +86,7 @@ const MobilyaNavbar = () => {
                         Yemek Odaları
                       </h3>
                     </NavLink>
-                    <NavLink to="/yatakodasi">
+                    <NavLink to="/yatakodalari">
                       <h3 style={{ fontSize: "14px",color:'white',marginTop:'12px' }} class="product-title">
                         Yatak Odaları
                       </h3>
@@ -243,7 +243,7 @@ const MobilyaNavbar = () => {
 
                       <div class="col-12 col-md-2 col-lg-2 mb-5 mb-md-0">
                         <a class="product-item">
-                          <NavLink to="/yatakodasi">
+                          <NavLink to="/yatakodalari">
                             <img
                               src={yatakOdasi}
                               class="img-fluid product-thumbnail"

@@ -111,7 +111,7 @@ const Home = () => {
 
             <div class="col-4 col-sm-3 col-lg-2 mb-5 mb-md-0">
               <a class="product-item">
-                <NavLink href="/yatakodasi">
+                <NavLink href="/yatakodalari">
                   <img src={yatakOdasi} class="img-fluid product-thumbnail" />
                   <h3 class="product-title">Yatak Odaları</h3>
 
@@ -250,13 +250,13 @@ const Home = () => {
           >
             <SwiperSlide>
               <div class="card mt-5 " style={{borderRadius:'20px'}}>
-                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px'}} class="card-img-top" />
+                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px',maxHeight:'200px', minHeight:'200px'}} class="card-img-top" />
                 <div class="card-body">
                   <h5 class="card-title">Koltuk Takımı</h5>
                   <div className="d-flex justify-content-between">
                     <p class="card-text">Üçlü Koltuk</p>
                     <div>
-                      <p class="card-text border px-2">22000 ₺</p>
+                      <p class="card-text border px-2">32.000 ₺</p>
                     </div>
                   </div>
                 </div>
@@ -264,13 +264,13 @@ const Home = () => {
             </SwiperSlide>
             <SwiperSlide>
 			<div class="card mt-5 " style={{borderRadius:'20px'}}>
-                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px'}} class="card-img-top" />
+                <img src="https://www.alfemo.com.tr/images/thumbs/0007631_palermo-kose-takimi_1440.jpeg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px',maxHeight:'200px', minHeight:'200px'}} class="card-img-top img-fluid" />
                 <div class="card-body">
-                  <h5 class="card-title">Koltuk Takımı</h5>
+                  <h5 class="card-title">Köşe Takımı</h5>
                   <div className="d-flex justify-content-between">
-                    <p class="card-text">Üçlü Koltuk</p>
+                    <p class="card-text">Üçlü Köşe Takımı</p>
                     <div>
-                      <p class="card-text border px-2">22000 ₺</p>
+                      <p class="card-text border px-2">29.000 ₺</p>
                     </div>
                   </div>
                 </div>
@@ -278,13 +278,13 @@ const Home = () => {
             </SwiperSlide>
             <SwiperSlide>
 			<div class="card mt-5 " style={{borderRadius:'20px'}}>
-                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px'}} class="card-img-top" />
+                <img src="https://static.ticimax.cloud/30192/uploads/urunresimleri/buyuk/new-morten-tv-unitesi-5dc6dc.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px',maxHeight:'200px', minHeight:'200px'}} class="card-img-top" />
                 <div class="card-body">
-                  <h5 class="card-title">Koltuk Takımı</h5>
+                  <h5 class="card-title">Tv Unitesi</h5>
                   <div className="d-flex justify-content-between">
-                    <p class="card-text">Üçlü Koltuk</p>
+                    <p class="card-text">Tv Ünitesi</p>
                     <div>
-                      <p class="card-text border px-2">22000 ₺</p>
+                      <p class="card-text border px-2">25.000 ₺</p>
                     </div>
                   </div>
                 </div>
@@ -292,13 +292,13 @@ const Home = () => {
             </SwiperSlide>
             <SwiperSlide>
 			<div class="card mt-5 " style={{borderRadius:'20px'}}>
-                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px'}} class="card-img-top" />
+                <img src="https://ideacdn.net/idea/kc/78/myassets/products/961/https-bellona-mncdn-com-mnresize-1280-720-img-image-tr-58mtg8015ldld-28.jpg?revision=1693987862" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px',maxHeight:'200px', minHeight:'200px'}} class="card-img-top" />
                 <div class="card-body">
-                  <h5 class="card-title">Koltuk Takımı</h5>
+                  <h5 class="card-title">Yemek Takımı</h5>
                   <div className="d-flex justify-content-between">
-                    <p class="card-text">Üçlü Koltuk</p>
+                    <p class="card-text">Yemek Takımı</p>
                     <div>
-                      <p class="card-text border px-2">22000 ₺</p>
+                      <p class="card-text border px-2">26.800 ₺</p>
                     </div>
                   </div>
                 </div>
@@ -306,13 +306,13 @@ const Home = () => {
             </SwiperSlide>
 			<SwiperSlide>
 			<div class="card mt-5 " style={{borderRadius:'20px'}}>
-                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px'}} class="card-img-top" />
+                <img src="https://static.ticimax.cloud/30192/uploads/urunresimleri/buyuk/perla-yatak-odasi-takimi-ceviz-382bc-.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px',maxHeight:'200px', minHeight:'200px'}} class="card-img-top" />
                 <div class="card-body">
-                  <h5 class="card-title">Koltuk Takımı</h5>
+                  <h5 class="card-title">Yatak Odası Takımı</h5>
                   <div className="d-flex justify-content-between">
-                    <p class="card-text">Üçlü Koltuk</p>
+                    <p class="card-text">Yatak Odası Takımı</p>
                     <div>
-                      <p class="card-text border px-2">22000 ₺</p>
+                      <p class="card-text border px-2">25.670 ₺</p>
                     </div>
                   </div>
                 </div>
@@ -321,13 +321,13 @@ const Home = () => {
 
 			<SwiperSlide>
 			<div class="card mt-5 " style={{borderRadius:'20px'}}>
-                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px'}} class="card-img-top" />
+                <img src="https://www.mobilyaminegolden.com/deniz-koltuk-takimi-krem-kiremit-chester-inegol-mobilya-0-101827-79-B.jpg" style={{borderTopRightRadius:'20px',borderTopLeftRadius:'20px',maxHeight:'200px', minHeight:'200px'}} class="card-img-top" />
                 <div class="card-body">
                   <h5 class="card-title">Koltuk Takımı</h5>
                   <div className="d-flex justify-content-between">
                     <p class="card-text">Üçlü Koltuk</p>
                     <div>
-                      <p class="card-text border px-2">22000 ₺</p>
+                      <p class="card-text border px-2">22.000 ₺</p>
                     </div>
                   </div>
                 </div>
